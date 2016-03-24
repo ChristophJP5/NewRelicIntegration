@@ -32,6 +32,8 @@ class Shopware_Plugins_Frontend_NewRelicIntegration_Bootstrap extends Shopware_C
     }
 
 
+    //new line test
+
     /**
      * includes the info of this plugin
      *
